@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\models\\post.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\relacionamentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\relacionamentos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\relacionamentoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\relacionamentoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\controllers\\blogcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Controllers\\PostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Relacionamentos\\Controllers\\PostController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|c:\\users\\alejo\\onedrive\\documentos\\faculdade\\poo2\\atividade\\documentacaooficial_foa_poo2_261\\relacionamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9CBF5FEA-EC7E-476D-B5C5-32B32D49F1F2}|Relacionamentos\\Relacionamentos.csproj|solutionrelative:relacionamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Migrations\\20260608111638_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Relacionamentos\\Migrations\\20260608111638_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Relacionamentos",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Relacionamentos.csproj",
+              "RelativeDocumentMoniker": "Relacionamentos\\Relacionamentos.csproj",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Relacionamentos.csproj",
+              "RelativeToolTip": "Relacionamentos\\Relacionamentos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T11:36:34.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Relacionamentos\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\appsettings.Development.json",
+              "RelativeToolTip": "Relacionamentos\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-08T11:34:43.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Relacionamentos\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Relacionamentos\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-06-08T11:24:57.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PostController.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Controllers\\PostController.cs",
+              "RelativeDocumentMoniker": "Relacionamentos\\Controllers\\PostController.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Controllers\\PostController.cs",
+              "RelativeToolTip": "Relacionamentos\\Controllers\\PostController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T11:24:45.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogController.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Controllers\\BlogController.cs",
+              "RelativeDocumentMoniker": "Relacionamentos\\Controllers\\BlogController.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Controllers\\BlogController.cs",
+              "RelativeToolTip": "Relacionamentos\\Controllers\\BlogController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T11:23:23.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Program.cs",
+              "RelativeDocumentMoniker": "Relacionamentos\\Program.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Program.cs",
+              "RelativeToolTip": "Relacionamentos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T11:11:13.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\appsettings.json",
+              "RelativeDocumentMoniker": "Relacionamentos\\appsettings.json",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\appsettings.json",
+              "RelativeToolTip": "Relacionamentos\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-08T11:10:07.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Relacionamentos\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Models\\Blog.cs*",
+              "RelativeToolTip": "Relacionamentos\\Models\\Blog.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T11:00:11.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Post.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Models\\Post.cs",
+              "RelativeDocumentMoniker": "Relacionamentos\\Models\\Post.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Models\\Post.cs*",
+              "RelativeToolTip": "Relacionamentos\\Models\\Post.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T11:00:47.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20260608111638_initial.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Migrations\\20260608111638_initial.cs",
+              "RelativeDocumentMoniker": "Relacionamentos\\Migrations\\20260608111638_initial.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\Migrations\\20260608111638_initial.cs",
+              "RelativeToolTip": "Relacionamentos\\Migrations\\20260608111638_initial.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T11:16:38.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RelacionamentosContext.cs",
+              "DocumentMoniker": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\RelacionamentosContext.cs",
+              "RelativeDocumentMoniker": "Relacionamentos\\RelacionamentosContext.cs",
+              "ToolTip": "C:\\Users\\alejo\\OneDrive\\Documentos\\Faculdade\\POO2\\Atividade\\DocumentacaoOficial_FOA_POO2_261\\Relacionamentos\\RelacionamentosContext.cs",
+              "RelativeToolTip": "Relacionamentos\\RelacionamentosContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T11:04:21.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
